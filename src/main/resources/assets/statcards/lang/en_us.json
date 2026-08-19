@@ -1,0 +1,13 @@
+{
+  "itemGroup.statcards": "Example Mod Tab",
+  "block.statcards.example_block": "Example Block",
+  "item.statcards.example_item": "Example Item",
+
+  "statcards.configuration.title": "Stat-Cards Configs",
+  "statcards.configuration.section.statcards.common.toml": "Stat-Cards Configs",
+  "statcards.configuration.section.statcards.common.toml.title": "Stat-Cards Configs",
+  "statcards.configuration.items": "Item List",
+  "statcards.configuration.logDirtBlock": "Log Dirt Block",
+  "statcards.configuration.magicNumberIntroduction": "Magic Number Text",
+  "statcards.configuration.magicNumber": "Magic Number"
+}
